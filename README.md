@@ -29,7 +29,22 @@ Fast & Easy BSC trading bot that give you total control over your trades, writte
 Cannot sell tokens bought manually
 
 
+#### Trading Diagram
+![image](https://user-images.githubusercontent.com/73640313/211512678-8a49e82a-b7f4-42e2-84e3-b9c8a0849c97.png)
+
+### Screenshot
+![image](https://user-images.githubusercontent.com/73640313/211512787-7a7aedfc-d766-441e-83ea-6fbc7559bdc2.png)
+
+### Demo
+
+https://user-images.githubusercontent.com/73640313/211513186-d2a356cc-304c-4076-a627-014d447f1914.mp4
+
+
+
+
 ### How To Run
 pip3 install -r requirements.txt
 Run main.py
+
+
 
